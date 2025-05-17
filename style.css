@@ -52,3 +52,8 @@ p {
   font-size: 20 px
   back-ground color: lime
 }
+img {
+width: 40 px
+Height: 40 px
+border: 5 px green
+}
