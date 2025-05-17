@@ -48,3 +48,7 @@ h1 {
   max-width: 80%;
   border-radius: 10px;
 }
+p {
+  font-size: 20 px
+  back-ground color: lime
+}
