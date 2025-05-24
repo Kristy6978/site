@@ -50,7 +50,8 @@ h1 {
 }
 p {
   font-size: 20px;
-  background-color: lime;
+  background-color: green;
+  border: 30px;
 }
 img {
 width: 400px;
