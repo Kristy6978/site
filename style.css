@@ -63,5 +63,6 @@ p {
   padding: 15px;
   border-left: 6px solid #4caf50;
   margin-bottom: 20px;
-  color: white
+  color: white;
+  font-size: 35px;
 }
