@@ -59,8 +59,9 @@ h1 {
 
 p {
   font-size: 20px;
-  background-color: #e8f5e9;
+  background-color: lime;
   padding: 15px;
   border-left: 6px solid #4caf50;
   margin-bottom: 20px;
+  color: white
 }
